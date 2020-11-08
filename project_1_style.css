@@ -1,0 +1,31 @@
+table{
+    border: 5px solid;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: wheat;
+    text-align: center;
+}
+.grd{
+    background-image: linear-gradient(to right,rgb(100, 26, 26), brown,rgb(165, 82, 82),rgb(165, 114, 114));
+}
+a{
+    color: white;
+}
+.head{
+    color:rgb(235, 190, 42);
+}
+td{
+    color: rgb(3, 3, 131);
+}
+.hero1{
+    color: white;
+    background-image: linear-gradient(to right, rgb(100, 26, 26),brown);
+}
+.hero2{
+    color: white;
+    background-image: linear-gradient(to right,brown,rgb(165,82,82));
+}
+.false,.oh{
+    color: white;
+    background-color: rgb(100, 26, 26);
+}
